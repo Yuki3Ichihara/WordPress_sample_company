@@ -41,7 +41,7 @@
 					<div class="footer02_second_group">
 						<div class="footer_nav_list footer_nav_list_01">
 							<ul class="list_line">
-								<?php wp_nav_menu( array('menu' => 'footer_about_shiroyama', 'container' => '','items_wrap' => '%3$s')); ?>
+								<?php wp_nav_menu( array('menu' => 'footer_about_sample', 'container' => '','items_wrap' => '%3$s')); ?>
 							</ul>
 							<ul class="list_line">
 								<?php wp_nav_menu( array('menu' => 'footer_product_catalog', 'container' => '','items_wrap' => '%3$s')); ?>
